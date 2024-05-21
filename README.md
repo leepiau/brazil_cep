@@ -8,7 +8,7 @@ https://github.com/leepiau/brazil_cep/blob/main/presentation/Olist%20_Analysis.p
 
 The bulk of the analyses was performed in Power BI.
 
-# ETL Geolocation Data files:
+# ETL Geolocation files:
 1.etl_step_1_clean.ipynb [initial retrieval and cleaning of data]
 
 2.etl_step_2_match.ipynb [replace city names with a better source]
